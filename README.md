@@ -1,2 +1,24 @@
-# newsroom-ai-copilot
-A multi-agent AI platform for journalists that performs research, fact-checking, headline generation, editorial review, social media content creation, and evaluation using LangGraph and Gemini.
+# Newsroom AI Copilot
+
+A multi-agent AI platform that helps journalists and editorial teams:
+
+- Research topics
+- Verify claims
+- Generate headlines
+- Review content quality
+- Create social media posts
+- Evaluate AI outputs
+
+## Tech Stack
+
+- Python
+- LangGraph
+- Gemini API
+- Pydantic
+- FastAPI
+- Streamlit
+- Docker
+
+## Status
+
+🚧 Currently in Architecture & System Design Phase
